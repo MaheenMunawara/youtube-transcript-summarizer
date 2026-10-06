@@ -1,7 +1,15 @@
 venv/
+.venv/
+__pycache__/
+*.py[cod]
 *.exe
 *.dll
 *.lib
-__pycache__/
-*.pyc
+.env
+.env.*
+!.env.example
 .DS_Store
+*.mp3
+*.wav
+*.m4a
+*.tmp

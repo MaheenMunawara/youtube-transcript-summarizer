@@ -1,0 +1,6 @@
+Flask
+openai-whisper
+yt-dlp
+transformers
+deep-translator
+torch
